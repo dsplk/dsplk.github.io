@@ -1,0 +1,4 @@
+baseURL = "dsplk.github.io"
+languageCode = "zh-Hans"
+title = "DSPLK"
+theme = "ananke"
